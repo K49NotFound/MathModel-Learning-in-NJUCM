@@ -14,6 +14,6 @@
 |按计量尺度分类|按收集方法分类|按时间状况分类|
 |-----|----|-----|
 |分类数据（categorical data）：按是否有序分为无序分类数据和有序分类数据|观测数据（observational data）：有关社会经济现象的统计数据|截面数据（cross-sectional data）
-|数值型数据（metric data）：分为定性数据或品质数据（qualitative data）定量数据或数量数据（quantitative data）|实验数据（experimental data）：有关自然科学的大多数数据|时间序列数据（time series data）
+|数值型数据（metric data）：分为定性数据/品质数据（qualitative data）和定量数据/数量数据（quantitative data）|实验数据（experimental data）：有关自然科学的大多数数据|时间序列数据（time series data）
 
 面板数据（Panel-Data）：对同一主体的不同时间点的观测值：$X_{it}$，其中i是个体的维度，t是时间维度  
