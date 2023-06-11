@@ -1,3 +1,4 @@
+来自幕布的[统计学笔记](https://mubu.com/app/edit/home/4KtxucOCfaW)
 # 第一章导论
 ## 1.1统计学定义
 统计学（statistics）是**收集、处理、分析、解释数据并从数据中得出结论**的科学。  
