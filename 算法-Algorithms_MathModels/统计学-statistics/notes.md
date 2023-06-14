@@ -1,5 +1,5 @@
-来自幕布的[统计学笔记](https://mubu.com/app/edit/home/4KtxucOCfaW)
-[数理统计讲义]（https://bookdown.org/hezhijian/book/）
+来自幕布的[统计学笔记](https://mubu.com/app/edit/home/4KtxucOCfaW)  
+何志坚的[数理统计讲义](https://bookdown.org/hezhijian/book/)
 
 # 第一章导论
 ## 1.1统计学定义
